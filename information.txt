@@ -1,0 +1,8 @@
+
+
+instalaron los modules de Express y el driver de conexcion con PostgreSQL - PostgreSQL
+entre otros modulos
+
+>npm i express
+>npm i pg
+
